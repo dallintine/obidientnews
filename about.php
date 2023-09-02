@@ -125,6 +125,22 @@
               <div class="image_2" href="#"><img src="images/image7.jpg"></div>
             </div>
           </div>
+          <div class="clearfix"></div>
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="text-center">Team Memeber Profile</h2> 
+            </div>
+            <div class="col-md-6">
+                <div class="List-group  ">
+                  <h3 class="list-group-item list-group-item-success ">Github Profile:    <a  class="text-center" href="https://github.com/dallintine"><code>https://github.com/dallintine</code></a></h3>
+                  <h3 class="list-group-item list-group-item-primary">linkedin Profle:  <a href="https://www.linkedin.com/in/sammy-egwu-8b879199/" alt=""><code>https://www.linkedin.com/in/sammy-egwu-8b879199/</code></a></h3>
+                  <h3 class="list-group-item list-group-item-success">Twitter: <a href="https://twitter.com/Sawiitechservic" alt=""><code>https://twitter.com/Sawiitechservic</code></a></h3>
+                  <h3 class="list-group-item list-group-item-primary">Github Repository:  <a href="https://github.com/dallintine?tab=repositories" alt=""><code>https://github.com/dallintine?tab=repositories</code></a></h3>
+                  
+                </div>
+            </div>
+
+          </div>
         </div>
       </div>
       <!-- about section end -->

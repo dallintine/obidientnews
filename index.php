@@ -353,8 +353,8 @@ if (isset($_POST['submit'])) {
             <a class="popular_more" href="#">more</a> </div>
           <div class="single_right_coloum">
             <h2 class="title">Obidient videos</h2>
-            <div class="single_cat_right_content editorial"> <video width="200" height="200" controls src="filevideo/video6.mp4" type="video/mp4" ></video>
-              <h3>Exposed!! 21 lies Festus Kayamo Told on Tinubu U.S.Drug and Money Laudering Court Case </h3>
+            <div class="single_cat_right_content editorial"> <video width="200" height="200" controls src="filevideo/introvideo.mp4" type="video/mp4" ></video>
+              <h3>An introduction to each of My team members, the story of what inspired your project and what comes next for your project</h3>
             </div>
             <div class="single_cat_right_content editorial"> <video width="200" height="200" controls src="filevideo/video2.mp4" type="video/mp4" ></video><h3> Citizens been Defranchised by APC sponsored thugs</h3>
             </div>
