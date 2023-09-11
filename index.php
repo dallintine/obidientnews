@@ -174,9 +174,7 @@ if (isset($_POST['submit'])) {
       
 
       <ul id="nav2">
-        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav2" aria-controls="nav2" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-        </button> -->
+        
       <li><a href="index">Home</a></li>
         <li class="nav-item"><a class=""href="#">Breaking News</a>
           <ul>
@@ -376,7 +374,7 @@ if (isset($_POST['submit'])) {
             <h2 class="text-center text-danger">Sign Up for Obidient reporters</h2>
             <p style="font-size:1.2vw" class="text-center">Sign up or Login to report a News</p>
 
-                  <!-- collection of error message  -->
+                  <!-- reporter Register -->
             
 
                   <!-- Registration  -->
@@ -428,9 +426,10 @@ if (isset($_POST['submit'])) {
                 </div>
               
             </form>
-            <!-- <p class="news-letter-privacy">We do not spam. We value your privacy!</p> -->
+            <!--end of registration -->
           </div>
         </div>
+        <!-- the Audio news -->
         <div class="single_sidebar">
           <div class="popular">
             <h2 class="title">Obidient audio News</h2>
@@ -502,11 +501,13 @@ if (isset($_POST['submit'])) {
         
       </div>
     </div>
+
     <div class="footer_top_area">
       
     </div> 
   </div>
 </div>
+<!-- footer -->
   <div class="info_section layout_padding">
       <div class="container ">
         <div class="info_content">
@@ -546,28 +547,7 @@ if (isset($_POST['submit'])) {
                     </a>
                   </li>
                 </ul>
-                <!-- <ul class="ml-3 ml-md-5">
-                  <li>
-                    <a href="">
-                       FOREIGN
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Obidient diaspora
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Gallary
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      public opinion
-                    </a>
-                  </li>
-                </ul> -->
+                
               </div>
             </div>
             <div class="col-md-4">
@@ -604,28 +584,7 @@ if (isset($_POST['submit'])) {
                     </a>
                   </li>
                 </ul>
-                <!-- <ul class="ml-3 ml-md-5">
-                  <li>
-                    <a href="">
-                      Cancer Oncology
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Dental Surgery
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Diagnose & Research
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Drug / Medicines
-                    </a>
-                  </li>
-                </ul> -->
+                
               </div>
             </div>
             <div class="col-md-4">
@@ -662,28 +621,7 @@ if (isset($_POST['submit'])) {
                     </a>
                   </li>
                 </ul>
-                <!-- <ul class="ml-3 ml-md-5">
-                  <li>
-                    <a href="">
-                      Cancer Oncology
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Dental Surgery
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Diagnose & Research
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Drug / Medicines
-                    </a>
-                  </li>
-                </ul> -->
+               
               </div>
             </div>
           </div>

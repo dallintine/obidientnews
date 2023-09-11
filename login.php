@@ -4,7 +4,7 @@ require_once 'helper/functions.php';
 
 
 $error = true;
-
+// the login variable 
 if(isset($_POST['login'])){
 
 	$email = sanitize($_POST['email']);
@@ -18,7 +18,7 @@ if(isset($_POST['login'])){
 	// echo "$email <br/>";
 	// echo "$password <br/>";
 	
-
+// get count if email exit
 	$count = getCount('All_user', "email ='$email' AND password ='$password'");
 	
     //  debug($count );
@@ -30,6 +30,7 @@ if(isset($_POST['login'])){
 	}
 	elseif ($count==1)
 	{
+		// insert in database using the update function 
 		
 		$_SESSION['email'] = $email;
 		$update = update('All_user', "Last_Login=now(), status='active'","email='$email'");
@@ -107,6 +108,7 @@ if(isset($_POST['login'])){
 <script src="js/modernizr.js"></script>
 
 </head>
+<!-- the login form -->
 	<body class="log-form">
 		<div class="top-content">
 		<div class="inner-bg">

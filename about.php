@@ -126,6 +126,7 @@
             </div>
           </div>
           <div class="clearfix"></div>
+          <!-- the team member -->
           <div class="row">
             <div class="col-md-12">
               <h2 class="text-center">Team Memeber Profile</h2> 
@@ -185,28 +186,7 @@
                     </a>
                   </li>
                 </ul>
-                <!-- <ul class="ml-3 ml-md-5">
-                  <li>
-                    <a href="">
-                       FOREIGN
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Obidient diaspora
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Gallary
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      public opinion
-                    </a>
-                  </li>
-                </ul> -->
+                
               </div>
             </div>
             <div class="col-md-4">
@@ -243,28 +223,7 @@
                     </a>
                   </li>
                 </ul>
-                <!-- <ul class="ml-3 ml-md-5">
-                  <li>
-                    <a href="">
-                      Cancer Oncology
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Dental Surgery
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Diagnose & Research
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Drug / Medicines
-                    </a>
-                  </li>
-                </ul> -->
+                
               </div>
             </div>
             <div class="col-md-4">
@@ -301,28 +260,7 @@
                     </a>
                   </li>
                 </ul>
-                <!-- <ul class="ml-3 ml-md-5">
-                  <li>
-                    <a href="">
-                      Cancer Oncology
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Dental Surgery
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Diagnose & Research
-                    </a>
-                  </li>
-                  <li>
-                    <a href="">
-                      Drug / Medicines
-                    </a>
-                  </li>
-                </ul> -->
+                
               </div>
             </div>
           </div>
